@@ -1,7 +1,3 @@
-# THIS PACKAGE IS NOT AVAILABLE YET!
-
-if you need functional, just copy content of App.js and create RN component with it.
-
 ## react-native-overlay-section
 Without linking. Сompatible with expo.
 
@@ -13,7 +9,7 @@ import {
     View,
     Text,
 } from 'react-native';
-import SlideUp from './slideUp';
+import SlideUp from 'react-native-overlay-section';
 
 export default class SlideUp extends Component {
 

@@ -1,6 +1,7 @@
 {
   "main": "node_modules/expo/AppEntry.js",
-  "private": true,
+  "name": "react-native-overlay-section",
+  "version" : "0.1.0",
   "dependencies": {
     "expo": "^25.0.0",
     "react": "16.2.0",
