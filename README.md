@@ -5,6 +5,10 @@ Without linking. Сompatible with expo.
 
 ## Usage example
 
+```
+mpm i react-native-overlay-section --save
+```
+
 ```javascript
 import React, { Component } from 'react';
 import {
