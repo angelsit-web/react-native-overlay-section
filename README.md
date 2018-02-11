@@ -1,6 +1,8 @@
 ## react-native-overlay-section
 Without linking. Сompatible with expo.
 
+![](https://github.com/greenarea/react-native-overlay-section/assets/example.gif)
+
 ## Usage example
 
 ```javascript
@@ -11,7 +13,7 @@ import {
 } from 'react-native';
 import SlideUp from 'react-native-overlay-section';
 
-export default class SlideUp extends Component {
+export default class App extends Component {
 
     constructor (props) {
         super(props);
