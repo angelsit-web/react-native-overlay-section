@@ -1,7 +1,7 @@
 ## react-native-overlay-section
 Without linking. Сompatible with expo.
 
-![](https://github.com/greenarea/react-native-overlay-section/blob/master/assets/example.gif)
+![https://github.com/greenarea/react-native-overlay-section](https://github.com/greenarea/react-native-overlay-section/blob/master/assets/example.gif)
 
 ## Usage example
 

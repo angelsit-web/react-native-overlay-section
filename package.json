@@ -1,7 +1,7 @@
 {
   "main": "node_modules/expo/AppEntry.js",
   "name": "react-native-overlay-section",
-  "version" : "0.1.3",
+  "version" : "0.1.4",
   "homepage": "https://github.com/greenarea/react-native-overlay-section",
   "keywords": "slide up, slide down, overlay, react native",
   "dependencies": {
