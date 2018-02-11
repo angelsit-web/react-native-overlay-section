@@ -6,7 +6,7 @@ Without linking. Сompatible with expo.
 ## Usage example
 
 ```
-mpm i react-native-overlay-section --save
+npm i react-native-overlay-section --save
 ```
 
 ```javascript
