@@ -1,8 +1,8 @@
 ## react-native-overlay-section
 Without linking. Сompatible with expo.
 
-![https://github.com/greenarea/react-native-overlay-section](https://github.com/greenarea/react-native-overlay-section/blob/master/assets/example.gif)
-
+![](https://github.com/greenarea/react-native-overlay-section/blob/master/assets/example.gif)
+https://github.com/greenarea/react-native-overlay-section
 ## Usage example
 
 ```
@@ -21,10 +21,9 @@ export default class App extends Component {
 
     constructor (props) {
         super(props);
-        this.exampleContent = this.exampleContent.bind(this);
     }
     
-    exampleContent () {
+    exampleContent = () => {
         return (
             <View>
                 <Text>This is test text</Text>

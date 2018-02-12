@@ -1,12 +1,35 @@
 {
-  "main": "node_modules/expo/AppEntry.js",
   "name": "react-native-overlay-section",
-  "version" : "0.1.4",
-  "homepage": "https://github.com/greenarea/react-native-overlay-section",
-  "keywords": "slide up, slide down, overlay, react native",
-  "dependencies": {
-    "expo": "^25.0.0",
-    "react": "16.2.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz"
-  }
+  "version": "0.1.6",
+  "description": "Overlay section like iOS Notification Center.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenarea/react-native-overlay-section.git"
+  },
+  "keywords": [
+    "modal",
+    "react",
+    "native",
+    "overlay",
+    "slide-up",
+    "slide",
+    "swipe",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "author": "greenarea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greenarea/react-native-overlay-section/issues"
+  },
+  "homepage": "https://github.com/greenarea/react-native-overlay-section.git#readme"
 }
