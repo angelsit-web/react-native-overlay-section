@@ -1,6 +1,6 @@
 Without linking. Сompatible with expo.
 
-###READ THIS FIRST !
+### ↓↓↓ READ THIS FIRST ! ↓↓↓
 ### Please use only yarn to install this package!
 
 ![](https://github.com/greenarea/react-native-overlay-section/blob/master/assets/example.gif)
