@@ -1,12 +1,15 @@
-## react-native-overlay-section
 Without linking. Сompatible with expo.
 
+###READ THIS FIRST !
+### Please use only yarn to install this package!
+
 ![](https://github.com/greenarea/react-native-overlay-section/blob/master/assets/example.gif)
+
 https://github.com/greenarea/react-native-overlay-section
 ## Usage example
 
 ```
-npm i react-native-overlay-section --save
+yarn add react-native-overlay-section
 ```
 
 ```javascript

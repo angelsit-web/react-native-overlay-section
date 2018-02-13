@@ -1,6 +1,6 @@
 {
   "name": "react-native-overlay-section",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Overlay section like iOS Notification Center.",
   "main": "index.js",
   "scripts": {
@@ -20,9 +20,6 @@
   ],
   "author": "greenarea",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/greenarea/react-native-overlay-section/issues"
-  },
   "dependencies": {
     "prop-types": "^15.6.0"
   },
