@@ -1,3 +1,3 @@
-import OverlaySection from './App';
+import SlideUp from './App';
 
-export default OverlaySection;
+export default SlideUp;

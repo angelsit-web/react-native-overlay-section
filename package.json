@@ -1,14 +1,10 @@
 {
   "name": "react-native-overlay-section",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Overlay section like iOS Notification Center.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/greenarea/react-native-overlay-section.git"
   },
   "keywords": [
     "modal",
