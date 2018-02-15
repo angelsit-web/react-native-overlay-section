@@ -1,6 +1,6 @@
 {
   "name": "react-native-overlay-section",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Overlay section like iOS Notification Center.",
   "main": "index.js",
   "scripts": {

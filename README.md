@@ -1,16 +1,22 @@
-Without linking. Сompatible with expo.
-
-### ↓↓↓ READ THIS FIRST ! ↓↓↓
-### Please use only yarn to install this package!
+Without linking. Compatible with expo.
 
 ![](https://github.com/greenarea/react-native-overlay-section/blob/master/assets/example.gif)
 
 https://github.com/greenarea/react-native-overlay-section
-## Usage example
+
+## Installation
 
 ```
 yarn add react-native-overlay-section
 ```
+or 
+```
+npm i react-native-overlay-section --save
+```
+
+## Usage example
+
+
 
 ```javascript
 import React, { Component } from 'react';
@@ -56,3 +62,8 @@ export default class App extends Component {
 | dragArrowColor  | PropTypes.string     | Color of default arrow            |
 
 All props are not required*
+
+## Milestones: 
+- [ ] Several section stop points, like 30%, 50%, 100% from bottom
+- [ ] Arrangement from top to bottom.
+- [ ] Section blurring.
