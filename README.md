@@ -53,17 +53,17 @@ export default class App extends Component {
 
 | props           | type | description |
 |-----------------|------|-------------|
-| visibleHeight   | PropTypes.number     | Height of all visible content include dragSection            |
-| draggableHeight | PropTypes.number     | Height of dragSection            |
-| contentSection  | PropTypes.object     | Pass your custom object to render it            |
-| dragSection     | PropTypes.object     | Section with PanResponder            |
-| dragBgColor     | PropTypes.string     | Background color of dragSection            |
-| contentSectionBgColor  | PropTypes.string     | backgroundColor of contentSection            |
-| dragArrowColor  | PropTypes.string     | Color of default arrow            |
+| visibleHeight   | number     | Height of all visible content include dragSection            |
+| draggableHeight | number     | Height of dragSection            |
+| contentSection  | component     | Pass your custom object to render it            |
+| dragSection     | component     | Section with PanResponder            |
+| dragBgColor     | string     | Background color of dragSection            |
+| contentSectionBgColor  | string     | backgroundColor of contentSection            |
+| dragArrowColor  | string     | Color of default arrow            |
 
 All props are not required*
 
 ## Milestones: 
 - [ ] Several section stop points, like 30%, 50%, 100% from bottom
 - [ ] Arrangement from top to bottom.
-- [ ] Section blurring.
+- [ ] Fit to content
